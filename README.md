@@ -1,4 +1,4 @@
-# 🐞 BugBoard - Bug Hunter Dashboard 🛠️
+## BugBoard - Bug Hunter's Dashboard 
 
 BugBoard is a comprehensive, open-source web application designed to empower bug hunter* and security researchers. With an intuitive interface, powerful automation, and integration of popular cybersecurity tools, BugBoard simplifies vulnerability detection and streamlines the bug bounty process. 🚀
 
