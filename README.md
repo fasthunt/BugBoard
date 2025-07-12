@@ -1,13 +1,7 @@
 ## BugBoard - Bug Hunter's Dashboard 
 
 BugBoard is a comprehensive, open-source web application designed to empower bug hunter* and security researchers. With an intuitive interface, powerful automation, and integration of popular cybersecurity tools, BugBoard simplifies vulnerability detection and streamlines the bug bounty process.
-
 <br>
-
-![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnh1bWk4cmoybDl1N2RrMmtnZHR6YXJvdXl5ZjE0bGt1bHk1cjdxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YVdfeWMkTr4MU/giphy.gif)
-
-<br>
-
 
 <div align="left" style="margin: 30px 0;">
   <a href="https://linktr.ee/yogsec">
