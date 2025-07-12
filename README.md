@@ -15,9 +15,7 @@ BugBoard is a comprehensive, open-source web application designed to empower bug
   </a>
 </div>
 
-
-<br>
-![https://github.com/fasthunt/BugBoard/blob/main/bugboard.png?raw=true]
+![](https://github.com/fasthunt/BugBoard/blob/main/bugboard.png?raw=true)
 <br>
 
 ## Try BugBoard! --->  [https://fasthunt.github.io/BugBoard/](https://fasthunt.github.io/BugBoard/)
