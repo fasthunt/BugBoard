@@ -3,7 +3,7 @@
 BugBoard is a comprehensive, open-source web application designed to empower bug hunter* and security researchers. With an intuitive interface, powerful automation, and integration of popular cybersecurity tools, BugBoard simplifies vulnerability detection and streamlines the bug bounty process.
 
 
-<div align="center" style="margin: 30px 0;">
+<div align="left" style="margin: 30px 0;">
   <a href="https://linktr.ee/yogsec">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkTree&color=25D366&logo=linktree&logoColor=FFFFFF&label=" alt="LinkTree">
   </a>
@@ -17,7 +17,7 @@ BugBoard is a comprehensive, open-source web application designed to empower bug
 
 
 <br>
-
+![https://github.com/fasthunt/BugBoard/blob/main/bugboard.png?raw=true]
 <br>
 
 ## Try BugBoard! --->  [https://fasthunt.github.io/BugBoard/](https://fasthunt.github.io/BugBoard/)
